@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "first": "DJ",
+    "last": "LeMahieu",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2020-01-01",
+        "end": "2021-01-01"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first": "Anthony",
+    "last": "Rizzo",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2019-01-01",
+        "end": "2020-01-01"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "first": "Aaron",
+    "last": "Judge",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2018-01-01",
+        "end": "2019-01-01"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "first": "Giancarlo",
+    "last": "Stanton",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2017-01-01",
+        "end": "2018-01-01"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "first": "Joey",
+    "last": "Gallo",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2016-01-01",
+        "end": "2017-01-01"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "first": "Gleyber",
+    "last": "Torres",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2015-01-01",
+        "end": "2016-01-01"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "first": "Gary",
+    "last": "Sanchez",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2014-01-01",
+        "end": "2015-01-01"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "first": "Brett",
+    "last": "Gardner",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2017-01-01",
+        "end": "2018-01-01"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "first": "Gio",
+    "last": "Urshela",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2017-01-01",
+        "end": "2018-01-01"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "first": "Gerrit",
+    "last": "Cole",
+    "phone": "1-2123458974",
+    "experience": [
+      {
+        "company": "OrangeCart",
+        "title": "Director of Marketing",
+        "start": "2017-01-01",
+        "end": "2018-01-01"
+      }
+    ]
+  }
+]
