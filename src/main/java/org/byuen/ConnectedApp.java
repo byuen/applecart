@@ -115,7 +115,11 @@ public class ConnectedApp {
             return true;
         }
 
-        return isInContactList(person2, person1);
+        if (isInContactList(person2, person1)) {
+            return true;
+        }
+
+        return false;
     }
 
     private static boolean isInContactList(Person person1, Person person2) {
